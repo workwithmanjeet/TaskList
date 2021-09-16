@@ -1,0 +1,18 @@
+.card {
+    position: relative;
+    margin: 3.5rem 0 1rem 0;
+    background-color: #fff;
+    border-radius: 10px;
+}
+.card-action{
+    margin-left: 0;
+    padding-left: 0 !important;
+
+}
+#heading{
+    text-align: center;
+}
+body{
+    background-image: radial-gradient(circle, red, rgb(255, 132, 0), rgb(228, 125, 15));
+    /* background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo) */
+}
