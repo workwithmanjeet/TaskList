@@ -12,7 +12,7 @@
 #heading{
     text-align: center;
 }
-body{
+/* body{
     background-image: radial-gradient(circle, red, rgb(255, 132, 0), rgb(228, 125, 15));
-    /* background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo) */
-}
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo)
+} */
